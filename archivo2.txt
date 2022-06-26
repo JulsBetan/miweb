@@ -1,2 +1,3 @@
-Segundo archivo en git
+Segundo archivo en git 
 chanchito Feliz
+Chanchito triste
